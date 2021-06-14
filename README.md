@@ -2,7 +2,7 @@
         
 <!-- TITLE -->
 ### <h1>Basic Online and Offline Finance Tracker README</h1>
-
+![budgettrackerdemo](https://user-images.githubusercontent.com/74980325/121969671-63bc1580-cd3a-11eb-9aff-6c1c7fb00229.gif)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
     <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -65,16 +65,6 @@ This is an example of how to list things you need to use the software and how to
     ```sh
     node server.js
     ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this project to examine how offline and online posting functions.
-
-
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
